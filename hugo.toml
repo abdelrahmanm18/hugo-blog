@@ -1,4 +1,4 @@
-baseURL = "https://abdelrahmanm18.github.io/hugo-blog/"
+baseURL = "/"
 title = "Abdelrahman's blog 🍃"
 languageCode = "en-us"
 pagination.pagerSize = 10
