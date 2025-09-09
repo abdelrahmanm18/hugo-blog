@@ -1,9 +1,28 @@
-baseURL = 'https://abdelrahmanm18.github.io/hugo-blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'dead-simple'
-enu:
-  main:
-    - name: "<u>H</u>ome"
-      url: /
-      weight: 1
+baseURL = "http://localhost:1313/"
+title = "Your Name"
+languageCode = "en-us"
+pagination.pagerSize = 10
+enableRobotsTXT = true
+theme = "dead-simple"
+
+# Enable tags
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Top navbar: Home, Posts, Tags
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url  = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url  = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url  = "/tags/"
+    weight = 3
