@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://abdelrahmanm18.github.io/hugo-blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'dead-simple'
+enu:
+  main:
+    - name: "<u>H</u>ome"
+      url: /
+      weight: 1
