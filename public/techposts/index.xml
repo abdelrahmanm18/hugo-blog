@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techposts on My New Hugo Site</title>
+    <link>http://localhost:1313/techposts/</link>
+    <description>Recent content in Techposts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Sep 2025 03:40:42 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/techposts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Hugo</title>
+      <link>http://localhost:1313/techposts/testing-hugos/</link>
+      <pubDate>Tue, 09 Sep 2025 03:40:42 +0300</pubDate>
+      <guid>http://localhost:1313/techposts/testing-hugos/</guid>
+      <description>&lt;h2 id=&#34;first-blog&#34;&gt;first blog&lt;/h2&gt;&#xA;&lt;p&gt;This is my first blog using &lt;strong&gt;hugo&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
