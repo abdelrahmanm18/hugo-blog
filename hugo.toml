@@ -1,5 +1,5 @@
-baseURL = "http://localhost:1313/"
-title = "Your Name"
+baseURL = "https://abdelrahmanm18.github.io/hugo-blog/"
+title = "Abdelrahman's blog 🍃"
 languageCode = "en-us"
 pagination.pagerSize = 10
 enableRobotsTXT = true
